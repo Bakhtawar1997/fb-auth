@@ -1,0 +1,28 @@
+.main-btn
+{
+  text-align: center;
+  align-items: center;
+  color: aliceblue; 
+  font-size: 20px;
+  
+}
+.hide{
+  display:none ;
+}
+.hide-to{
+  display: none;
+}
+
+.logout{
+  margin-top: 30px;
+  text-align: center;
+  align-items: center;
+  color: blue;
+  font-size: 20px;
+  border-radius: 60px;
+}
+.setting{
+  display: flex;
+  color: brown;
+}
+
